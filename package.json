@@ -1,0 +1,28 @@
+{
+  "name": "sweet-class",
+  "version": "1.0.0",
+  "description": "A sweet.js macro which mimics ES6 classes however with private methods feature",
+  "main": "sweet-class.sjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vViktorPL/sweet-class.git"
+  },
+  "keywords": [
+    "sweet-macros",
+    "sweetjs",
+    "macro",
+    "class"
+  ],
+  "author": "Wiktor Toporek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vViktorPL/sweet-class/issues"
+  },
+  "homepage": "https://github.com/vViktorPL/sweet-class#readme",
+  "devDependencies": {
+    "sweet.js": "mozilla/sweet.js"
+  }
+}
